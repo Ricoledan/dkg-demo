@@ -1,5 +1,5 @@
 import "dotenv/config";
-import DKG from "dkg.js";
+import DKG from "src/dkg.js";
 // import fs from "fs";
 
 // Load the content of the Knowledge Asset (using an imaginary medicine "Yewmakerol" leaflet as content

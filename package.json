@@ -2,7 +2,7 @@
   "name": "dkg-demo",
   "version": "1.0.0",
   "description": "## Introduction",
-  "main": "dkg.js",
+  "main": "src/dkg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
